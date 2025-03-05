@@ -1,3 +1,16 @@
+POM.xml
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>3.1.2</version>
+        <relativePath/> <!-- Lookup parent from repository -->
+    </parent>
+
+
+
+
+
 for file transfer service 
 
 we can test the API using Postman or cURL.
